@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738825604010",
+    "project_id": "flashchat-b42e4",
+    "storage_bucket": "flashchat-b42e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738825604010:android:90f471bc57d3d46a2879d3",
+        "android_client_info": {
+          "package_name": "com.project.pradyotprakash.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkPa2oas1hOJP5MMoCpELHsn97G8XI_-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
